@@ -1,0 +1,48 @@
+*{
+    margin: null;
+    padding: null;
+    box-sizing: border-box;
+}
+body{
+    background-color: #c7d7c1;
+}
+a{
+    text-decoration: null;
+    color: black;
+}
+.centralDiv{
+    border: 1px solid black;
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px; 
+    background-color: #849483;
+}
+button{
+    background-color: #4b665d;
+    color:whitesmoke;
+}
+button:hover{
+    background-color: #2b453d;
+}
+button:active{
+    color: #c7d7c1;
+}
+input{
+    background-color: #dde4db;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+h1{
+    margin: 50px;
+    text-align: center;
+}
+.calculatorDiv{
+    border: 1px solid black;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+}
+h4{
+    margin-top: 40px;
+}
